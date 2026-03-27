@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {
+      "code": "CA",
+      "title": "Cornucopia Ace",
+      "description": "Test card 1"
+    },
+    {
+      "code": "C2",
+      "title": "Cornucopia Two",
+      "description": "Test card 2"
+    }
+  ]
+}
