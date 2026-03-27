@@ -35,6 +35,17 @@ python run_export.py --template template.sla --output output.pdf
 * `cards.json` → Input data
 * `output.pdf` → Generated result
 
+  ## Screenshots
+
+### Terminal Execution
+![Terminal](screenshots/1.png)
+
+### Generated PDF
+![PDF](screenshots/2.png)
+
+### Project Structure
+![Structure](screenshots/3.png)
+
 ## Note
 
 This PoC validates the Scribus-based approach proposed for OWASP Cornucopia GSoC 2026.
