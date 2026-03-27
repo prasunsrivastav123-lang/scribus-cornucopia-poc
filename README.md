@@ -37,10 +37,10 @@ python run_export.py --template template.sla --output output.pdf
 
   ## Screenshots
 
-### Terminal Execution
+### Generated PDF
 ![Terminal](screenshots/1.png)
 
-### Generated PDF
+### Terminal Execution
 ![PDF](screenshots/2.png)
 
 ### Project Structure
